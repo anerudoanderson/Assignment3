@@ -1,7 +1,3 @@
-# Write a program that handles user input for a number. Use a try block to catch any
-# ValueError exceptions that may occur if the user inputs an invalid number. Print an
-# error message and prompt the user to enter a valid number again.
-
 while True:
     user_input = input("Please enter a number: ")
     try:
