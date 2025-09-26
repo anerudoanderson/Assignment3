@@ -1,9 +1,4 @@
-# 1. Write a Python function named classify_number that takes an integer as input and
-# returns:
-# "Positive" if the number is greater than zero.
-# "Negative" if the number is less than zero.
-# "Zero" if the number is zero.
-# Use a while loop to repeatedly prompt the user for a number until they enter a valid integer.
+# Question 1
 
 def classify_number():
     while True:
