@@ -1,8 +1,3 @@
-# What is an API? Explain how to make a GET request to an API using the requests
-# library in Python.
-# · Explain how to connect to a SQLite database using Python. Describe the
-# steps involved and the purpose of each step.
-
 # An API (Application Programming Interface) is a set of rules that allows software applications to communicate with each other. Think of it as a waiter in a restaurant—you tell it what you want (a request), and it brings back what the kitchen (server) provides (a response).
 # APIs are commonly used to:
 # - Access data from web services (e.g., weather, stock prices, social media)
