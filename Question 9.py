@@ -1,10 +1,3 @@
-# Write a program that:
-# I. Uses regular expressions to extract all email addresses from a given text.
-# II. Uses regular expressions to validate a date in the format &quot;YYYY-MM-DD&quot;.
-# III. Uses regular expressions to replace all occurrences of a word with another word in
-# a string.
-# IV. Use regular expressions to split a string by all non-alphanumeric characters.
-
 import re
 
 # I. Extract all email addresses from a given text
