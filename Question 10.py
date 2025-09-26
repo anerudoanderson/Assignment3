@@ -1,9 +1,3 @@
-# Write a simple client-server program:
-#  The server should listen for incoming connections and send a message Hello from
-# server!
-#  The client should connect to the server and receive the message.
-#  Include basic error handling for network operations.
-
 import socket
 
 HOST = '127.0.0.1'  # Localhost
