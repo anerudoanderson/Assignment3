@@ -1,7 +1,3 @@
-# Write a Python program that uses the random module to generate a list of 10
-# random integers between 1 and 100. Then, calculate and print the average of the
-# generated numbers. Use appropriate functions to achieve this.
-
 import random
 
 # Generate a list of 10 random integers between 1 and 100
