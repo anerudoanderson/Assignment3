@@ -1,7 +1,3 @@
-# 2. Define a Python function calculate_average that accepts a variable number of
-# arguments (using *args) and returns the average of those numbers. Include
-# appropriate documentation for the function using a docstring.
-
 def calculate_average(*args):
     """
     Calculates the average of a variable number of numeric arguments.
